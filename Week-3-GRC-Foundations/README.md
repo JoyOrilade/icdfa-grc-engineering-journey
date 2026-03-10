@@ -52,15 +52,7 @@ This repository contains deliverables for **Week 3 Lab Assignment** of the GRC10
 1. Start with the **lab report** (`LAB_REPORT_WEEK3.docx`) for the full written analysis and justifications.  
 2. Refer to the **Excel file** (`risk_assessment.xlsx`) for all calculations and tables.  
 3. Check the **screenshots** folder for visual evidence of the completed worksheets.
-
-## Future Work / Next Steps
-
-- Implement proposed control enhancements in a simulated environment  
-- Expand quantitative analysis with more accurate ARO estimates  
-- Compare treatment costs vs. residual risk reduction (cost-benefit analysis)
-
 Feel free to clone/fork this repository for reference or academic discussion.
 
----
 **Last updated**: March 2026  
 **License**: For academic use only – no commercial redistribution without permission.
